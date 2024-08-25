@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/230327tokiex/TaskMomentum-Retro-/static/css/main.8084093b.css",
+    "main.js": "/230327tokiex/TaskMomentum-Retro-/static/js/main.83ec9fde.js",
+    "static/js/453.e9466981.chunk.js": "/230327tokiex/TaskMomentum-Retro-/static/js/453.e9466981.chunk.js",
+    "index.html": "/230327tokiex/TaskMomentum-Retro-/index.html",
+    "main.8084093b.css.map": "/230327tokiex/TaskMomentum-Retro-/static/css/main.8084093b.css.map",
+    "main.83ec9fde.js.map": "/230327tokiex/TaskMomentum-Retro-/static/js/main.83ec9fde.js.map",
+    "453.e9466981.chunk.js.map": "/230327tokiex/TaskMomentum-Retro-/static/js/453.e9466981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8084093b.css",
+    "static/js/main.83ec9fde.js"
+  ]
+}
